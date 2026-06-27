@@ -47,7 +47,7 @@ Netflix hosts thousands of movies and TV shows worldwide. Understanding content 
 * Top Genre
 * Top Producing Country
 
-## Dashboard Screenshots
+## Dashboard Screenshot
 ![Netflix Dashboard](screenshots/Netflix.png)
 
 ## Key Business Insights
