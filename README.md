@@ -1,11 +1,13 @@
 # Netflix Analysis Dashboard
 
 ## Project Highlights
+```
 ✔ Interactive Power BI Dashboard
 ✔ Content Trend Analysis
 ✔ Genre and Country Analysis
 ✔ KPI Tracking
 ✔ Business Recommendations
+```
 
 ## Overview
 This project presents an interactive Power BI dashboard for analyzing Netflix's content library. The dashboard provides insights into movies and TV shows based on genres, ratings, countries, release years, and content distribution.
@@ -62,6 +64,7 @@ Netflix hosts thousands of movies and TV shows worldwide. Understanding content 
 * Focus on producing high-demand TV series.
 
 ## Repository Structure
+```
 Netflix-Analysis-Dashboard/
 ├── Netflix_Dashboard.pbix
 ├── dataset/
@@ -69,6 +72,7 @@ Netflix-Analysis-Dashboard/
 ├── screenshots/
 │   ├── Netflix.png
 ├── README.md
+```
 
 ## How to Use
 Download the .pbix file and open it using Power BI Desktop.
